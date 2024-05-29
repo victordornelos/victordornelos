@@ -1,11 +1,11 @@
 # Quem sou eu ❔
 
-## Olá ❕ Eu sou o Victor Flávio Dornelos 🙂
+## Olá ❕ Eu sou o Victor Flávio P. Dornelos 🙂
 
 Sou estudante de Economia na UFRRJ-IM, atualmente no 7º período. Tenho interesse em usar análise de dados e programação nas áreas de Finanças, Econometria, Estatística e Economia.
-___________
 
-## Meus conhecimentos são:
+
+# Meus conhecimentos são:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -23,7 +23,7 @@ ___________
 - **Inglês intermediário**.
 - **Soft skills**: Trabalho em equipe, proatividade, criatividade, comunicação e adaptabilidade.
 ______________
-## Contatos:
+# Contatos:
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
