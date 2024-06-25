@@ -21,6 +21,7 @@ Sou estudante de Economia na UFRRJ-IM, atualmente no 7º período. Tenho interes
 - **Excel** e **Power BI** avançados: Crio tabelas dinâmicas, automatizadas e dashboards.
 - **Sistemas operacionais**: Windows e Mac OS.
 - **Inglês intermediário**.
+- **SQL** básico .
 - **Soft skills**: Trabalho em equipe, proatividade, criatividade, comunicação e adaptabilidade.
 ______________
 # Contatos:
