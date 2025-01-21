@@ -2,7 +2,7 @@
 
 ## Olá ❕ Eu sou o Victor Flávio P. Dornelos 🙂
 
-Sou estudante de Economia na UFRRJ-IM, atualmente no 7º período. Tenho interesse em usar análise de dados e programação nas áreas de Finanças, Econometria, Estatística e Economia.
+Sou estudante de Economia na UFRRJ-IM, atualmente no 9º período. Tenho interesse em usar análise de dados e programação nas áreas de Finanças, Econometria, Estatística e Economia.
 
 
 # Meus conhecimentos são:
