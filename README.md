@@ -15,15 +15,15 @@ Sou estudante de Economia na UFRRJ-IM, atualmente no 10º período e tenho 23 an
 ![MACOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-- **Análise de Dados (avançado):** Experiência sólida com coleta, tratamento, visualização e interpretação de dados utilizando `Python`, `SQL`, `Excel` e `Power BI`. Criação de dashboards, relatórios analíticos e automações para apoio à tomada de decisão.
-- **Python (avançado):** Domínio de bibliotecas como `pandas`, `numpy`, `statsmodels`, `scikit-learn`, `seaborn` e `plotly`, aplicadas à análise de dados, modelagem estatística/econométrica, visualização e automação.
-- **Ciência de Dados (iniciante):** Capacidade de contribuir em projetos com análise exploratória, pré-processamento, criação de modelos supervisionados e visualização de resultados. Aprofundando conhecimentos em Machine Learning.
-- **GitHub e Markdown (avançado):** Versionamento, colaboração em equipe, organização de repositórios e documentação de projetos.
-- **Power BI e Excel com VBA (avançado):** Desenvolvimento de dashboards interativos, relatórios automatizados e análise com tabelas dinâmicas.
-- **SQL (intermediário):** Consultas, manipulação e extração de dados em bases relacionais.
+- **Análise de Dados:** Experiência sólida com coleta, tratamento, visualização e interpretação de dados utilizando `Python`, `SQL`, `Excel` e `Power BI`. Criação de dashboards, relatórios analíticos e automações para apoio à tomada de decisão.
+- **Python:** Domínio de bibliotecas como `pandas`,`pyspark`, `numpy`, `statsmodels`, `scikit-learn`, `seaborn` e `plotly`, aplicadas à análise de dados, modelagem estatística/econométrica, visualização e automação.
+- **Ciência de Dados:** Capacidade de contribuir em projetos com análise exploratória, pré-processamento, criação de modelos supervisionados e visualização de resultados. Aprofundando conhecimentos em Machine Learning.
+- **GitHub:** Versionamento, colaboração em equipe, organização de repositórios e documentação de projetos.
+- **Power BI:** Desenvolvimento de dashboards interativos e relatórios automatizados.
+- **SQL:** Consultas, manipulação e extração de dados em bases relacionais.
 - **Ferramentas de automação:** Experiência com **Power Apps**, **Power Automate** e IA generativa (**ChatGPT**, **Copilot**, **Gemini**) para otimização de processos.
 - **Sistemas operacionais:** Windows e macOS.
-- **Inglês (intermediário):** Boa leitura técnica e comunicação funcional.
+- **Inglês:** Boa leitura técnica e comunicação funcional.
 - **Soft Skills:** Trabalho em equipe, proatividade, criatividade, adaptabilidade e boa comunicação.
 ______________
 
