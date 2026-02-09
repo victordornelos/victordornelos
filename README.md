@@ -2,7 +2,7 @@
 
 ## Olá ❕ Eu sou o Victor Flávio P. Dornelos 🙂
 
-Sou estudante de Economia na UFRRJ-IM, atualmente no 10º período e tenho 23 anos. Tenho interesse em usar análise de dados e programação nas áreas de Finanças, Econometria, Estatística e Economia.
+Sou barachel em Economia na UFRRJ-IM (2025) e tenho 23 anos. Tenho interesse em usar análise de dado e métodos quantitativos nas áreas de Finanças, Ciêncisa de Dados, Econometria, Estatística e Economia.
 ------------------------
 
 # 🛠️  Habilidades:
