@@ -2,7 +2,7 @@
 
 ## Olá ❕ Eu sou o Victor Flávio P. Dornelos 🙂
 
-Sou barachel em Economia na UFRRJ-IM (2025) e tenho 23 anos. Tenho interesse em usar análise de dado e métodos quantitativos nas áreas de Finanças, Ciêncisa de Dados, Econometria, Estatística e Economia.
+Sou bacharel em Economia na UFRRJ-IM (2025) e tenho 23 anos. Tenho interesse em usar análise de dado e métodos quantitativos nas áreas de Finanças, Ciêncisa de Dados, Econometria, Estatística e Economia.
 ------------------------
 
 # 🛠️  Habilidades:
