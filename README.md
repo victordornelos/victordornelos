@@ -31,7 +31,7 @@ ______________
 
 ## 📍 BNDES – Banco Nacional de Desenvolvimento Econômico e Social  
 **Estagiário de Economia e Dados**  
-**09/2024 – Atualmente**
+**09/2024 – 12/2025**
 
 - Criação e manutenção de dashboards e análises voltadas para a contabilidade dos planos de saúde e previdência, utilizando **Python**, **SQL** e **Power BI**.
 - Automatização de processos rotineiros com **Python**, **Power Apps**, **Power Automate** e **ChatGPT**, aumentando a eficiência operacional.
